@@ -3,7 +3,9 @@
 
 322-1204, Cheongmyeong Maeul, 3 Danji Apt. 957-6 Yeongtong 1-dong, Suwon, Gyeonggi-do 16707
 
-+821095300602 * [shulgaalexey@gmail.com](shulgaalexey@gmail.com) * [kr.linkedin.com/in/alexey-shulga-a8678443](kr.linkedin.com/in/alexey-shulga-a8678443)
++821095300602   [shulgaalexey@gmail.com](mailto: shulgaalexey@gmail.com)
+
+[Alex Shulga on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
 
 **Senior Software Engineer**
 ========================
