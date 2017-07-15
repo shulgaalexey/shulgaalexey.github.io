@@ -13,7 +13,13 @@
 **Senior Software Engineer**
 ========================
 
-Results-oriented and visionary software engineer with expertise across the complete software development life cycle and experience in full-stack development. Lead research and architecture design for middle-ware modules and services; proven success managing complex development efforts from zero-level in unknown technical environments. Create robust, reusable design patterns and methods to minimize future development time and contribute to large-scale innovation and next-generation development. Fluent in Russian, professional level English, and beginner Korean.
+Results-oriented and visionary software engineer with expertise across the complete software development life cycle and experience in full-stack development.
+
+Lead research and architecture design for middle-ware modules and services; proven success managing complex development efforts from zero-level in unknown technical environments.
+
+Create robust, reusable design patterns and methods to minimize future development time and contribute to large-scale innovation and next-generation development.
+
+Fluent in Russian, professional level English, and beginner Korean.
 
 Areas of Expertise:
 -------------------
