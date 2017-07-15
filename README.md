@@ -7,10 +7,10 @@
 
 [shulgaalexey@gmail.com](mailto:shulgaalexey@gmail.com)
 
-[on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
+[View on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
 
 
-**Senior Software Engineer**
+Senior Software Engineer
 ========================
 
 Results-oriented and visionary software engineer with expertise across the complete software development life cycle and experience in full-stack development.
