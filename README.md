@@ -10,7 +10,7 @@
 [View on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
 
 
-**Senior Software Engineer**
+Senior Software Engineer
 ============================
 
 Results-oriented and visionary software engineer with expertise across the complete software development life cycle and experience in full-stack development.
@@ -60,7 +60,7 @@ Professional Experience
 
 
 
-## Samsung Electronics, Seoul, South Korea
+### **Samsung Electronics, Seoul, South Korea**
 
 Senior Software Engineer, 4/2014 – Present
 
@@ -78,7 +78,7 @@ Promoted to Senior Software Engineer responsible for cutting-edge Tizen API deve
 
 
 
-## Samsung Electronics, Suwon, South Korea
+### **Samsung Electronics, Suwon, South Korea**
 
 Senior Researcher, 4/2012 – 3/2014
 
@@ -95,7 +95,7 @@ Conducted research and development of prototypes of cloud services and platforms
  - Thoroughly analyzed changing technical landscape and evolution of cloud & mobile solutions to develop next generation solutions.
 
 
-## Samsung Electronics, Suwon, South Korea
+### **Samsung Electronics, Suwon, South Korea**
 
 Research Engineer, 11/2010 – 3/2012
 
@@ -108,7 +108,7 @@ Worked on cutting-edge authentication solutions, as well as family-oriented soci
  - Proposed use cases for family-oriented social networking services with content access management features allowing for multiple roles.
 
 
-## Medicom MTD, Taganrog, Russia
+### **Medicom MTD, Taganrog, Russia**
 Lead Software Engineer/Junior Software Engineer, 8/2002 – 10/2010
 
 Technical Scope: C, C++, MFC, Microsoft Visual Studio, Source Safe, Red Mine, Bounds Checker, Texas Instruments Code Composer Studio, MATLAB, Windows, Encephalan, Neuromyan, Ancar
@@ -130,13 +130,13 @@ Education & Credentials
 
 
 
-## PhD in Computer Science and Cybernetics
+### **PhD in Computer Science and Cybernetics**
 
 Southern Federal University, Rostov-na-Donu, Russia
 Dissertation: Development of a Method and Adaptive Algorithms of Bio-medical Signal Compression with Guaranteed Accuracy on the base of the Delta-transformation of Second Order
 
 
-## Master of Science in Computer and Information Science
+### **Master of Science in Computer and Information Science**
 
 Bachelor of Science in Computer Science
 Taganrog State University of Radio Engineering, Taganrog, Russia
