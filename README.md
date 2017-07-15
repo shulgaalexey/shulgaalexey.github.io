@@ -1,10 +1,11 @@
-Alex Shulga
+**Alex Shulga**
 ===========
 
 322-1204, Cheongmyeong Maeul, 3 Danji Apt. 957-6 Yeongtong 1-dong, Suwon, Gyeonggi-do 16707
-+821095300602 * shulgaalexey@gmail.com * kr.linkedin.com/in/alexey-shulga-a8678443
 
-Senior Software Engineer
++821095300602 * [shulgaalexey@gmail.com](shulgaalexey@gmail.com) * [kr.linkedin.com/in/alexey-shulga-a8678443](kr.linkedin.com/in/alexey-shulga-a8678443)
+
+**Senior Software Engineer**
 ========================
 
 Results-oriented and visionary software engineer with expertise across the complete software development life cycle and experience in full-stack development. Lead research and architecture design for middle-ware modules and services; proven success managing complex development efforts from zero-level in unknown technical environments. Create robust, reusable design patterns and methods to minimize future development time and contribute to large-scale innovation and next-generation development. Fluent in Russian, professional level English, and beginner Korean.
@@ -66,6 +67,7 @@ Promoted to Senior Software Engineer responsible for cutting-edge Tizen API deve
 
 
 **Samsung Electronics, Suwon, South Korea**
+
 Senior Researcher, 4/2012 – 3/2014
 
 Technical Scope: Java (Spring), Python, R, Eclipse, JUnit, SoapUI, LoadUI, JMeter, Tomcat, AWS, SQL/NoSQL (Cloudant, Couchbase), StarUML, git, SVN, Jira, Linux, Windows
@@ -82,6 +84,7 @@ Conducted research and development of prototypes of cloud services and platforms
 
 
 **Samsung Electronics, Suwon, South Korea**
+
 Research Engineer, 11/2010 – 3/2012
 
 Technical Scope: JavaScript, HTML5, Windows
@@ -101,6 +104,7 @@ Technical Scope: C, C++, MFC, Microsoft Visual Studio, Source Safe, Red Mine, Bo
 Developed software for biomedical diagnostic equipment for scientific research in electroencephalography, electrocardiography, electroneuromyography, as well as routine health care usage. Communicated with colleagues across functional areas. Computed estimation results of modules. Supervised and mentored junior team members.
 
 **Key Achievements:**
+
  - Developed core software modules of biomedical wired/wireless sensor piconet providing the foundation for majority of company products.
  - Created compression method to encode ECGs and EEGs in real time with high level of accuracy and low computational complexity.
  - Created various diagnostic processing modules and biomedical signals codec included in signal registration software and firmware.
@@ -115,11 +119,13 @@ Education & Credentials
 
 
 **PhD in Computer Science and Cybernetics**
+
 Southern Federal University, Rostov-na-Donu, Russia
 Dissertation: Development of a Method and Adaptive Algorithms of Bio-medical Signal Compression with Guaranteed Accuracy on the base of the Delta-transformation of Second Order
 
 
 **Master of Science in Computer and Information Science**
+
 Bachelor of Science in Computer Science
 Taganrog State University of Radio Engineering, Taganrog, Russia
 
