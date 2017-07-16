@@ -138,6 +138,9 @@ Dissertation: Development of a Method and Adaptive Algorithms of Bio-medical Sig
 
 ### **Master of Science in Computer and Information Science**
 
+Taganrog State University of Radio Engineering, Taganrog, Russia
+
+
 ### **Bachelor of Science in Computer Science**
 
 Taganrog State University of Radio Engineering, Taganrog, Russia
