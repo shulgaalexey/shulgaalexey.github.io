@@ -51,28 +51,28 @@ Technical Proficiencies
 
 
 
-
 Professional Experience
 =======================
-
 
 
 ### **Samsung Electronics, Seoul, South Korea**
 
 Senior Software Engineer, 4/2014 – Present
 
-**Technical Scope:** C, C++, JavaScript, Git, Gerrit, vim, Doxygen, HTML, UML, gcov, obs, CMake, Valgrind, Python, Eclipse IDE, Jira, MS Word, PowerPoint, Tizen, Linux, Windows, Windows & Linux Tizen SDK, Agile Methodology
+**Technical Scope:** C, C++, C#, JavaScript, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Valgrind, Python, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services
 
-Promoted to Senior Software Engineer responsible for cutting-edge Tizen API development targeting third-party app and platform developers. Work in close collaboration with Tizen Service Architect. Hold responsibility for project documentation, WBS, design and architecture overview, API reference, tutorials, and blog articles. Maintain existing Tizen API source code in online open source repositories. Manage team of six engineers performing Maps Service development; facilitate communication, supervise project teams of local and off-shore developers.
+Promoted to Senior Software Engineer responsible for cutting-edge Tizen API development targeting third-party app and platform developers. Oversee research and development of applications for Tizen 3.0/4.0 API with the goal of creating complex connected device network and service capabilities. Work in close collaboration with Tizen Service Architect. Manage team of six engineers, serving as SCRUM team leader guiding onshore and offshore development teams through all SDLC phases. Hold responsibility for project documentation, WBS, design and architecture overview, API reference, tutorials, and blog articles. Maintain existing Tizen API source code in online open source repositories. Train new developers in devising strategies to meet client’s needs.
 
 **Key Achievements:**
- - Currently leading research phase for new set of Web API for Tizen 3.0.
- - Conducted all phases of research and development for native Maps Service API for Tizen 2.4 and 3.0; emphasized user experience to enable ease-of-use for entry-level developers with meeting expectations of experienced platform developers.
- - Drove wide distribution of Maps Service through publication of four tutorial articles, one video, developer guidance, complete Maps Service developer tutorial, and complete API reference on official Tizen developer website.
- - Cultivated high-performing team able to contribute to current and future improvements and optimization of Maps Service.
- - Leveraged agile approach focused on continual innovation and rapid development.
- - Spearheaded training and shared best practices to implement Test Driven Development (TDD), code reviews, unit testing, design patterns, OOD, and other standard methodologies resulting in improvements to software development quality and process.
 
+ - Drove research to transform Tizen Devices into dynamic IoT Entities increasing platform capabilities and creating Device-to-Device Network and Services for Tizen 3.0 and later platform.
+ - Credited for creating two Tizen Platform Services for Device-to-Device Connect Framework and Web device Convergence Java Script API for Tizen 3.0.
+ - Designed and prototyped add-ons to broaden OCF specifications, while providing Internet of Thing (IoT) and Internet of Apps (IoA) solutions. 
+ - Created Reference App and C# API for Tizen Smart Home App that demonstrates how to use Samsung IoT Services in Tizen. 
+ - Led process to design Tizen-oriented solutions of Intelligent IoT Ecosystem, while researching ways to enable both Samsung and 3rd Party Cloud Services on Tizen Platform.
+ - Adept at product champion and evangelist, presenting new Tizen solutions and features at client conferences, trade shows and across mass media channels, including blogs and webcasts. 
+ - Conducted all phases of research and development for native Maps Service API for Tizen 2.4, and later platforms, thus creating ease-of-use for entry-level developers.
+ - Spearheaded training and shared best practices to implement Test Driven Development (TDD), code reviews, unit testing, design patterns, OOD, and other standard methodologies resulting in improvements to software development quality and process.
 
 
 ### **Samsung Electronics, Suwon, South Korea**
