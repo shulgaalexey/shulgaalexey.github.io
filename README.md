@@ -41,21 +41,14 @@ Areas of Expertise:
 Technical Proficiencies
 =======================
 
+|    |     |
+|:---|:----|
+| **Certifications:** | Advanced Programming Level (C++) |
+| **Platforms:** | Linux, Tizen, Windows 9x-10, Android |
+| **Languages:** | C, C++, JavaScript, Java, Microsoft Visual C++, HTML, Python |
+| **Software:** | Git, Gerrit, vim, Eclipse IDE, Jira, JUnit, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, glib, std, Visual SourceSafe, MFC, WinAPI, SOCKET, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio |
+| **Methodologies:** | OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming (XP) |
 
-
-**Certifications:**
-Advanced Programming Level (C++)
-
-**Platforms:**
-Linux, Tizen, Windows 9x-10, Android
-
-**Languages:**
-C, C++, JavaScript, Java, Microsoft Visual C++, HTML, Python
-
-**Software:**
-Git, Gerrit, vim, Eclipse IDE, Jira, JUnit, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, glib, std, Visual SourceSafe, MFC, WinAPI, SOCKET, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio
-Methodologies:
-OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming (XP)
 
 
 
