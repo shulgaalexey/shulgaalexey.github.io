@@ -63,7 +63,7 @@ Senior Software Engineer, 4/2014 – Present
 
 Promoted to Senior Software Engineer responsible for cutting-edge Tizen API development targeting third-party app and platform developers. Oversee research and development of applications for Tizen 3.0/4.0 API with the goal of creating complex connected device network and service capabilities. Work in close collaboration with Tizen Service Architect. Manage team of six engineers, serving as SCRUM team leader guiding onshore and offshore development teams through all SDLC phases. Hold responsibility for project documentation, WBS, design and architecture overview, API reference, tutorials, and blog articles. Maintain existing Tizen API source code in online open source repositories. Train new developers in devising strategies to meet client’s needs.
 
-**Key Achievements:**
+__Key Achievements:__
 
  - Drove research to transform Tizen Devices into dynamic IoT Entities increasing platform capabilities and creating Device-to-Device Network and Services for Tizen 3.0 and later platform.
  - Credited for creating two Tizen Platform Services for Device-to-Device Connect Framework and Web device Convergence Java Script API for Tizen 3.0.
@@ -83,7 +83,8 @@ Technical Scope: Java (Spring), Python, R, Eclipse, JUnit, SoapUI, LoadUI, JMete
 
 Conducted research and development of prototypes of cloud services and platforms for computer intelligence (similar to IBM Watson), context-aware computing, task continuity, social engineering, social curation, and data virtualization. Led research teams in the US and Finland developing data virtualization cloud service and transient social networking service.
 
-**Key Achievements:**
+__Key Achievements:__
+
  - Developed RESTful Open API for NoSQL database of context-aware device activity rules, social, and device-to-device interaction.
  - Designed knowledge search and natural language answer generation modules; enhanced answer selection combining user content analysis and machine learning boosting methods.
  - Built app to react on user intent extracted from user’s speech using methods of Natural Language Processing; identified concepts to adopt in computer intelligence platform.
@@ -100,7 +101,8 @@ Technical Scope: JavaScript, HTML5, Windows
 
 Worked on cutting-edge authentication solutions, as well as family-oriented social networking services. Prepared and presented research summaries to management and team.
 
-**Key Achievements:**
+__Key Achievements:__
+
  - Conceptualized and designed three methods and prototypes of graphical type-less, shoulder-surfing secure user authentication applicable to wide variety of devices with sufficient and limited input-output and computation equipment (smart phones, smart refrigerators, etc.).
  - Proposed use cases for family-oriented social networking services with content access management features allowing for multiple roles.
 
@@ -112,7 +114,7 @@ Technical Scope: C, C++, MFC, Microsoft Visual Studio, Source Safe, Red Mine, Bo
 
 Developed software for biomedical diagnostic equipment for scientific research in electroencephalography, electrocardiography, electroneuromyography, as well as routine health care usage. Communicated with colleagues across functional areas. Computed estimation results of modules. Supervised and mentored junior team members.
 
-**Key Achievements:**
+__Key Achievements:__
 
  - Developed core software modules of biomedical wired/wireless sensor piconet providing the foundation for majority of company products.
  - Created compression method to encode ECGs and EEGs in real time with high level of accuracy and low computational complexity.
