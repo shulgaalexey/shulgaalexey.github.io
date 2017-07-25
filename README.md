@@ -1,13 +1,16 @@
 **Alex Shulga**
 ==============
 
+
 322-1204, Cheongmyeong Maeul, 3 Danji Apt. 957-6 Yeongtong 1-dong, Suwon, Gyeonggi-do 16707
 
 +821095300602
 
+
 [shulgaalexey@gmail.com](mailto:shulgaalexey@gmail.com)
 
 [View on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
+
 
 
 Senior Software Engineer
@@ -15,22 +18,23 @@ Senior Software Engineer
 
 Results-oriented and visionary software engineer with expertise across the complete software development life cycle and experience in full-stack development.
 
-Lead research and architecture design for middle-ware modules and services; proven success managing complex development efforts from zero-level in unknown technical environments.
+Lead research and architecture design for middle-ware modules and services; proven success managing complex development efforts from zero-level in unknown technical environments. 
 
 Create robust, reusable design patterns and methods to minimize future development time and contribute to large-scale innovation and next-generation development.
 
 Fluent in Russian, professional level English, and beginner Korean.
 
+
+
 Areas of Expertise:
 ===================
- - Software Development Life Cycle
- - Initial Research & Prototype Development
- - Sophisticated, Reusable Designs
- - Team Leadership & Mentoring
- - Software/Module Architecture Design
- - OS Core, GUI, Cloud Server Layers
- - Software Deployment/Implementation
- - Open Source Development Space
+
+                                           |
+-------------------------------------------|---------------------
+* Software Development Life Cycle          | * Software/Module Architecture Design
+* Initial Research & Prototype Development | * OS Core, Iot, GUI, Cloud Server Layers
+* Sophisticated, Reusable Designs          | * Software Deployment/Implementation
+* Team Leadership & Mentoring              | * Open Source Development Space
 
 
 
