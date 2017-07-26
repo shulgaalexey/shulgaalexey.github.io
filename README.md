@@ -45,6 +45,7 @@ Areas of Expertise:
 
 
 
+|    |   |
 |:---|---|
 | **Software Development Life Cycle** | **Software/Module Architecture Design** |
 | **Initial Research & Prototype Development** | **OS Core, Iot, GUI, Cloud Server Layers** |
