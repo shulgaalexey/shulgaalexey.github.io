@@ -9,7 +9,11 @@
 
 [shulgaalexey@gmail.com](mailto:shulgaalexey@gmail.com)
 
+
 [View on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
+
+
+[Paper version](docs/AlexShulga_Resume_20170726.docx)
 
 
 
@@ -90,7 +94,7 @@ Professional Experience
 
 Senior Software Engineer, 4/2014 – Present
 
-**Technical Scope:** C, C++, C#, JavaScript, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Valgrind, Python, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services
+__Technical Scope:__ C, C++, C#, JavaScript, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Valgrind, Python, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services
 
 Promoted to Senior Software Engineer responsible for cutting-edge Tizen API development targeting third-party app and platform developers. Oversee research and development of applications for Tizen 3.0/4.0 API with the goal of creating complex connected device network and service capabilities. Work in close collaboration with Tizen Service Architect. Manage team of six engineers, serving as SCRUM team leader guiding onshore and offshore development teams through all SDLC phases. Hold responsibility for project documentation, WBS, design and architecture overview, API reference, tutorials, and blog articles. Maintain existing Tizen API source code in online open source repositories. Train new developers in devising strategies to meet client’s needs.
 
@@ -110,7 +114,7 @@ __Key Achievements:__
 
 Senior Researcher, 4/2012 – 3/2014
 
-Technical Scope: Java (Spring), Python, R, Eclipse, JUnit, SoapUI, LoadUI, JMeter, Tomcat, AWS, SQL/NoSQL (Cloudant, Couchbase), StarUML, git, SVN, Jira, Linux, Windows
+__Technical Scope:__ Java (Spring), Python, R, Eclipse, JUnit, SoapUI, LoadUI, JMeter, Tomcat, AWS, SQL/NoSQL (Cloudant, Couchbase), StarUML, git, SVN, Jira, Linux, Windows
 
 Conducted research and development of prototypes of cloud services and platforms for computer intelligence (similar to IBM Watson), context-aware computing, task continuity, social engineering, social curation, and data virtualization. Led research teams in the US and Finland developing data virtualization cloud service and transient social networking service.
 
@@ -128,7 +132,7 @@ __Key Achievements:__
 
 Research Engineer, 11/2010 – 3/2012
 
-Technical Scope: JavaScript, HTML5, Windows
+__Technical Scope:__ JavaScript, HTML5, Windows
 
 Worked on cutting-edge authentication solutions, as well as family-oriented social networking services. Prepared and presented research summaries to management and team.
 
@@ -141,7 +145,7 @@ __Key Achievements:__
 ### **Medicom MTD, Taganrog, Russia**
 Lead Software Engineer/Junior Software Engineer, 8/2002 – 10/2010
 
-Technical Scope: C, C++, MFC, Microsoft Visual Studio, Source Safe, Red Mine, Bounds Checker, Texas Instruments Code Composer Studio, MATLAB, Windows, Encephalan, Neuromyan, Ancar
+__Technical Scope:__ C, C++, MFC, Microsoft Visual Studio, Source Safe, Red Mine, Bounds Checker, Texas Instruments Code Composer Studio, MATLAB, Windows, Encephalan, Neuromyan, Ancar
 
 Developed software for biomedical diagnostic equipment for scientific research in electroencephalography, electrocardiography, electroneuromyography, as well as routine health care usage. Communicated with colleagues across functional areas. Computed estimation results of modules. Supervised and mentored junior team members.
 
@@ -183,6 +187,7 @@ Taganrog State University of Radio Engineering, Taganrog, Russia
 
 
 **Professional Development:**
+
  - Creative Software Design;
  - Business Process Engineering and Management;
  - Data Mining for Social Networks;
