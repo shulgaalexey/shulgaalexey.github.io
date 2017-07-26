@@ -13,7 +13,7 @@
 [View on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
 
 
-[Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20170726.docx?raw=false)
+[Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20170726.docx?raw=true)
 
 
 
