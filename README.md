@@ -33,27 +33,12 @@ Fluent in Russian, professional level English, and beginner Korean.
 Areas of Expertise:
 ===================
 
+| **Software Development Life Cycle** | **Software/Module Architecture Design** |
+|:---|---|
+| **Initial Research & Prototype Development** | **OS Core, Iot, GUI, Cloud Server Layers** |
+| **Sophisticated, Reusable Designs** | **Software Deployment/Implementation** |
+| **Team Leadership & Mentoring** | **Open Source Development Space** |
 
-<b>
-<table>
-   <tr>
-     <td><ul><li>Software Development Life Cycle</li></ul></td>
-     <td><ul><li>Software/Module Architecture Design</li></ul></td>
-  </tr>
-  <tr>
-     <td><ul><li>Initial Research & Prototype Development</li></ul></td>
-     <td><ul><li>OS Core, Iot, GUI, Cloud Server Layers</li></ul></td>
-  </tr> 
-  <tr>
-     <td><ul><li>Sophisticated, Reusable Designs</li></ul></td>
-     <td><ul><li>Software Deployment/Implementation</li></ul></td>
-  </tr> 
-  <tr>
-     <td><ul><li>Team Leadership & Mentoring</li></ul></td>
-     <td><ul><li>Open Source Development Space</li></ul></td>
-  </tr> 
-</table>
-</b>
 
 
 
