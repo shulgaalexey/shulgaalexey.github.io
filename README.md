@@ -34,14 +34,14 @@ Areas of Expertise:
 ===================
 
 
-* Software Development Life Cycle
-* Initial Research & Prototype Development
-* Sophisticated, Reusable Designs
-* Team Leadership & Mentoring
-* Software/Module Architecture Design
-* OS Core, Iot, GUI, Cloud Server Layers
-* Software Deployment/Implementation
-* Open Source Development Space
+* **Software Development Life Cycle**
+* **Initial Research & Prototype Development**
+* **Sophisticated, Reusable Designs**
+* **Team Leadership & Mentoring**
+* **Software/Module Architecture Design**
+* **OS Core, Iot, GUI, Cloud Server Layers**
+* **Software Deployment/Implementation**
+* **Open Source Development Space**
 
 
 
