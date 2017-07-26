@@ -49,28 +49,16 @@ Technical Proficiencies
 =======================
 
 
-<table>
-    <tr>
-     <td><b>Certifications:</b></td>
-        <td>Advanced Programming Level (C++)</td>
-    </tr>
-    <tr>
-        <td><b>Platforms:</b></td>
-        <td>Linux, Tizen, Windows 9x-10, Android</td>
-    </tr>
-    <tr>
-        <td><b>Languages:</b></td>
-        <td>C, C++, JavaScript, Java, Microsoft Visual C++, HTML, Python</td>
-    </tr>
-    <tr>
-        <td><b>Software:</b></td>
-        <td>Git, Gerrit, vim, Eclipse IDE, Jira, JUnit, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, glib, std, Visual SourceSafe, MFC, WinAPI, SOCKET, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio/td>
-    </tr>
-    <tr>
-        <td><b>Methodologies:</b></td>
-        <td>OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming (XP)</td>
-    </tr> 
-</table>
+
+**Certifications:** Advanced Programming Level (C++)
+
+**Platforms:** Linux, Tizen, Windows 9x-10, Android
+
+**Languages:** C, C++, C#, JavaScript, Java, Microsoft Visual C++, HTML, Python
+
+**Software:** Git, Gerrit, GitHub, vim, Tizen Studio, MS Visual Studio, Eclipse IDE, Jira, JUnit, glib, std, .NET, Xamarin, MFC, WinAPI, SOCKET, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, Visual SourceSafe, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio, Visual Studio Team Services
+
+**Methodologies:** OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming (XP)
 
 
 
