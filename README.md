@@ -167,6 +167,7 @@ Education & Credentials
 ### **PhD in Computer Science and Cybernetics**
 
 Southern Federal University, Rostov-na-Donu, Russia
+
 Dissertation: Development of a Method and Adaptive Algorithms of Bio-medical Signal Compression with Guaranteed Accuracy on the base of the Delta-transformation of Second Order
 
 
