@@ -30,24 +30,55 @@ Areas of Expertise:
 ===================
 
 
-| **Software Development Life Cycle**          | **Software/Module Architecture Design**    |
-|:---------------------------------------------|:-------------------------------------------|
-| **Initial Research & Prototype Development** | **OS Core, Iot, GUI, Cloud Server Layers** |
-| **Sophisticated, Reusable Designs**          | **Software Deployment/Implementation**     |
-| **Team Leadership & Mentoring**              | **Open Source Development Space**          |
+<b>
+<table>
+   <tr>
+     <td><ul><li>Software Development Life Cycle</li></ul></td>
+     <td><ul><li>Software/Module Architecture Design</li></ul></td>
+  </tr>
+  <tr>
+     <td><ul><li>Initial Research & Prototype Development</li></ul></td>
+     <td><ul><li>OS Core, Iot, GUI, Cloud Server Layers</li></ul></td>
+  </tr> 
+  <tr>
+     <td><ul><li>Sophisticated, Reusable Designs</li></ul></td>
+     <td><ul><li>Software Deployment/Implementation</li></ul></td>
+  </tr> 
+  <tr>
+     <td><ul><li>Team Leadership & Mentoring</li></ul></td>
+     <td><ul><li>Open Source Development Space</li></ul></td>
+  </tr> 
+</table>
+</b>
 
 
 
 Technical Proficiencies
 =======================
 
-|    |     |
-|:---|:----|
-| **Certifications:** | Advanced Programming Level (C++) |
-| **Platforms:** | Linux, Tizen, Windows 9x-10, Android |
-| **Languages:** | C, C++, JavaScript, Java, Microsoft Visual C++, HTML, Python |
-| **Software:** | Git, Gerrit, vim, Eclipse IDE, Jira, JUnit, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, glib, std, Visual SourceSafe, MFC, WinAPI, SOCKET, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio |
-| **Methodologies:** | OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming (XP) |
+
+<table>
+    <tr>
+     <td><b>Certifications:</b></td>
+        <td>Advanced Programming Level (C++)</td>
+    </tr>
+    <tr>
+        <td><b>Platforms:</b></td>
+        <td>Linux, Tizen, Windows 9x-10, Android</td>
+    </tr>
+    <tr>
+        <td><b>Languages:</b></td>
+        <td>C, C++, JavaScript, Java, Microsoft Visual C++, HTML, Python</td>
+    </tr>
+    <tr>
+        <td><b>Software:</b></td>
+        <td>Git, Gerrit, vim, Eclipse IDE, Jira, JUnit, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, glib, std, Visual SourceSafe, MFC, WinAPI, SOCKET, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio/td>
+    </tr>
+    <tr>
+        <td><b>Methodologies:</b></td>
+        <td>OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming (XP)</td>
+    </tr> 
+</table>
 
 
 
