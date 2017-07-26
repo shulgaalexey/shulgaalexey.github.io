@@ -58,7 +58,7 @@ Technical Proficiencies
 
 **Software:** Git, Gerrit, GitHub, vim, Tizen Studio, MS Visual Studio, Eclipse IDE, Jira, JUnit, glib, std, .NET, Xamarin, MFC, WinAPI, SOCKET, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, Visual SourceSafe, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio, Visual Studio Team Services
 
-**Methodologies:** OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming (XP)
+**Methodologies:** OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming
 
 
 
