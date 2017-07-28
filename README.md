@@ -13,7 +13,7 @@
 [View on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
 
 
-[Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20170726.docx?raw=true)
+[Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20170728.docx?raw=true)
 
 
 
@@ -22,7 +22,7 @@ Senior Software Engineer
 
 Results-oriented and visionary software engineer with expertise across the complete software development life cycle and experience in full-stack development.
 
-Lead research and architecture design for middle-ware modules and services; proven success managing complex development efforts from zero-level in unknown technical environments. 
+Lead research and architecture design for middle-ware modules and services; proven success managing complex development efforts from zero-level in unknown technical environments.
 
 Create robust, reusable design patterns and methods to minimize future development time and contribute to large-scale innovation and next-generation development.
 
@@ -56,7 +56,7 @@ Technical Proficiencies
 
 **Languages:** C, C++, C#, JavaScript, Java, Microsoft Visual C++, HTML, Python
 
-**Software:** Git, Gerrit, GitHub, vim, Tizen Studio, MS Visual Studio, Eclipse IDE, Jira, JUnit, glib, std, .NET, Xamarin, MFC, WinAPI, SOCKET, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, Visual SourceSafe, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio, Visual Studio Team Services
+**Software:** Git, Gerrit, GitHub, vim, Tizen Studio, MS Visual Studio, Eclipse IDE, Jira, JUnit, glib, std, .NET, Xamarin, MFC, WinAPI, SOCKET, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, Visual SourceSafe, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio, Visual Studio Team Services and Mobile Center
 
 **Methodologies:** OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming
 
@@ -70,20 +70,30 @@ Professional Experience
 
 Senior Software Engineer, 4/2014 – Present
 
-__Technical Scope:__ C, C++, C#, JavaScript, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Valgrind, Python, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services
+__Technical Scope:__ C, C++, C#, JavaScript, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Valgrind, Python, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services and Mobile Center
 
-Promoted to Senior Software Engineer responsible for cutting-edge Tizen API development targeting third-party app and platform developers. Oversee research and development of applications for Tizen 3.0/4.0 API with the goal of creating complex connected device network and service capabilities. Work in close collaboration with Tizen Service Architect. Manage team of six engineers, serving as SCRUM team leader guiding onshore and offshore development teams through all SDLC phases. Hold responsibility for project documentation, WBS, design and architecture overview, API reference, tutorials, and blog articles. Maintain existing Tizen API source code in online open source repositories. Train new developers in devising strategies to meet client’s needs.
+
+Promoted to Senior Software Engineer responsible for cutting-edge Tizen API development targeting third-party app and platform developers.
+Oversee research and development of applications for Tizen 3.0/4.0 API with the goal of creating complex connected device network and service capabilities.
+Work in close collaboration with Tizen Service Architect.
+Manage team of six engineers, serving as SCRUM team leader guiding onshore and offshore development teams through all SDLC phases.
+Hold responsibility for project documentation, WBS, design and architecture overview, API reference, tutorials, and blog articles.
+Maintain existing Tizen API source code in online open source repositories.
+Train new developers in devising strategies to meet client’s needs.
+
 
 __Key Achievements:__
 
  - Drove research to transform Tizen Devices into dynamic IoT Entities increasing platform capabilities and creating Device-to-Device Network and Services for Tizen 3.0 and later platform.
  - Credited for creating two Tizen Platform Services for Device-to-Device Connect Framework and Web device Convergence Java Script API for Tizen 3.0.
- - Designed and prototyped add-ons to broaden OCF specifications, while providing Internet of Thing (IoT) and Internet of Apps (IoA) solutions. 
- - Created Reference App and C# API for Tizen Smart Home App that demonstrates how to use Samsung IoT Services in Tizen. 
+ - Designed and prototyped add-ons to broaden OCF (OIC) specifications, while providing Internet of Thing (IoT) and Internet of Apps (IoA) solutions.
+ - Created Reference App and C# API for Tizen Smart Home App that demonstrates how to use Samsung IoT Services in Tizen.
+ - Created Reference Processes of Automated Tizen App Development Life Cycle (including Continuous Integration and Mobile Analytics); ported to Tizen the Microsoft Mobile Center SDK, which allowed 3rd Party developers to automate SDLC of Tizen Xamarin Mobile and TV Apps (currently the SDK is in the Preview mode).
  - Led process to design Tizen-oriented solutions of Intelligent IoT Ecosystem, while researching ways to enable both Samsung and 3rd Party Cloud Services on Tizen Platform.
- - Adept at product champion and evangelist, presenting new Tizen solutions and features at client conferences, trade shows and across mass media channels, including blogs and webcasts. 
- - Conducted all phases of research and development for native Maps Service API for Tizen 2.4, and later platforms, thus creating ease-of-use for entry-level developers.
+ - Adept at product champion and evangelist, presenting new Tizen solutions and features at client conferences, trade shows and across mass media channels, including blogs and webcasts.
+ - Conducted all phases of research and development for native Maps Service API for Tizen 2.4 and later platforms, thus creating ease-of-use for entry-level developers.
  - Spearheaded training and shared best practices to implement Test Driven Development (TDD), code reviews, unit testing, design patterns, OOD, and other standard methodologies resulting in improvements to software development quality and process.
+
 
 
 ### **Samsung Electronics, Suwon, South Korea**
@@ -92,7 +102,8 @@ Senior Researcher, 4/2012 – 3/2014
 
 __Technical Scope:__ Java (Spring), Python, R, Eclipse, JUnit, SoapUI, LoadUI, JMeter, Tomcat, AWS, SQL/NoSQL (Cloudant, Couchbase), StarUML, git, SVN, Jira, Linux, Windows
 
-Conducted research and development of prototypes of cloud services and platforms for computer intelligence (similar to IBM Watson), context-aware computing, task continuity, social engineering, social curation, and data virtualization. Led research teams in the US and Finland developing data virtualization cloud service and transient social networking service.
+Conducted research and development of prototypes of cloud services and platforms for computer intelligence (similar to IBM Watson), context-aware computing, task continuity, social engineering, social curation, and data virtualization.
+Led research teams in the US and Finland developing data virtualization cloud service and transient social networking service.
 
 __Key Achievements:__
 
@@ -110,7 +121,8 @@ Research Engineer, 11/2010 – 3/2012
 
 __Technical Scope:__ JavaScript, HTML5, Windows
 
-Worked on cutting-edge authentication solutions, as well as family-oriented social networking services. Prepared and presented research summaries to management and team.
+Worked on cutting-edge authentication solutions, as well as family-oriented social networking services.
+Prepared and presented research summaries to management and team.
 
 __Key Achievements:__
 
@@ -123,7 +135,10 @@ Lead Software Engineer/Junior Software Engineer, 8/2002 – 10/2010
 
 __Technical Scope:__ C, C++, MFC, Microsoft Visual Studio, Source Safe, Red Mine, Bounds Checker, Texas Instruments Code Composer Studio, MATLAB, Windows, Encephalan, Neuromyan, Ancar
 
-Developed software for biomedical diagnostic equipment for scientific research in electroencephalography, electrocardiography, electroneuromyography, as well as routine health care usage. Communicated with colleagues across functional areas. Computed estimation results of modules. Supervised and mentored junior team members.
+Developed software for biomedical diagnostic equipment for scientific research in electroencephalography, electrocardiography, electroneuromyography, as well as routine health care usage.
+Communicated with colleagues across functional areas.
+Computed estimation results of modules.
+Supervised and mentored junior team members.
 
 __Key Achievements:__
 
