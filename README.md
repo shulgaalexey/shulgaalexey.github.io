@@ -10,7 +10,7 @@
 [shulgaalexey@gmail.com](mailto:shulgaalexey@gmail.com)
 
 
-[View on LinkedIn](https://www.linkedin.com/in/alexey-shulga-a8678443/)
+[View on LinkedIn](www.linkedin.com/in/alex-shulga)
 
 
 [Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20170728.docx?raw=true)
