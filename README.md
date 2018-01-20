@@ -13,7 +13,9 @@
 [View on LinkedIn](https://www.linkedin.com/in/alex-shulga/)
 
 
-[Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20170728.docx?raw=true)
+[Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20180118.docx?raw=true)
+
+[Cover Letter](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_COver_Ltr_20180118.docx?raw=true)
 
 
 
@@ -49,26 +51,48 @@ Technical Proficiencies
 =======================
 
 
-
 **Certifications:** Advanced Programming Level (C++)
 
 **Platforms:** Linux, Tizen, Windows 9x-10, Android
 
 **Languages:** C, C++, C#, JavaScript, Java, Microsoft Visual C++, HTML, Python
 
-**Software:** Git, Gerrit, GitHub, vim, Tizen Studio, MS Visual Studio, Eclipse IDE, Jira, JUnit, glib, std, .NET, Xamarin, MFC, WinAPI, SOCKET, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, SVN, Visual SourceSafe, Bounds Checker, Red Mine, Word, PowerPoint, Visio, MATLAB, Texas Instruments Code Composer Studio, Visual Studio Team Services and Mobile Center
+**Software:** Git, Gerrit, GitHub, vim, Tizen Studio, MS Visual Studio, Eclipse IDE, Jira, JUnit, glib, std, .NET, Xamarin, MFC, WinAPI, Tomcat, SoapUI, JMeter, AWS, SQL/NoSQL, StarUML, MS Office
 
-**Methodologies:** OOA/OOD, Design Patterns, Refractoring, Multithreading, Agile, Extreme Programming
-
+**Methodologies:** OOA/OOD, Design Patterns, Multithreading, Refractoring, Lean (Kanban), Agile (SCRUM, Extreme Programming)
 
 
 Professional Experience
 =======================
 
 
+### **Samsung Research Center, Seoul, South Korea**
+
+Senior Software Engineer, 3/2014 – Present
+
+
+__Technical Scope:__ C, C++, C#, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Lean Methodology, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services and Mobile Center
+
+Provide technical leadership in coordinating design and development activities of a small SCRUM team of three researchers, two engineers, two on-demand developers, and two on-demand testers to create developer’s tools used to automate Tizen IoT device setup and App Development Life-Cycle management.
+Oversee and evaluate source code development, working with project stakeholders to plan projects, define architecture, and coordinate project release schedules.
+Maintain existing Tizen IoT Tools source code in online open source repositories.
+Implement programming best practices and coaching.
+Utilize Agile methodologies and Java and .NET app-development life-cycle processes to manage projects.
+Track and report project status to Lab Lead of Tizen Advanced Developer Experience Lab.
+Train customers to understand new tools.
+
+__Key Achievements:--
+
+ - Credited for leading and coaching software development team to design and create tools used to add IoT capabilities to Tizen devices, while improving overall software development processes.
+ - Supervised creation of new processes and tools that automated deployment of Tizen IoT OS on Micro SD cards for IoT devices
+ - Created Reference Processes of Automated Tizen App Development Life Cycle, including Continuous Integration and Mobile Analytics, utilizing Tizen-to-Microsoft partnership.
+ - Port Microsoft’s SDK to Tizen, which allowed 3rd Party developers to automate SDLC of Tizen Xamarin Mobile and TV Apps (currently the SDK is in the Preview mode).
+ - Led team in taking ownership of product and software development process, championing new internal development processes that lead to creation of industry leading products.
+
+
 ### **Samsung Electronics, Seoul, South Korea**
 
-Senior Software Engineer, 4/2014 – Present
+Senior Software Engineer, 4/2014 – 3/2017
 
 __Technical Scope:__ C, C++, C#, JavaScript, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Valgrind, Python, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services and Mobile Center
 
