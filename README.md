@@ -15,7 +15,7 @@
 
 [Paper version](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Resume_20180118.docx?raw=true)
 
-[Cover Letter](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_COver_Ltr_20180118.docx?raw=true)
+[Cover Letter](https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Cover_Ltr_20180118.docx?raw=true)
 
 
 
