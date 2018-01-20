@@ -81,7 +81,7 @@ Utilize Agile methodologies and Java and .NET app-development life-cycle process
 Track and report project status to Lab Lead of Tizen Advanced Developer Experience Lab.
 Train customers to understand new tools.
 
-__Key Achievements:--
+__Key Achievements:__
 
  - Credited for leading and coaching software development team to design and create tools used to add IoT capabilities to Tizen devices, while improving overall software development processes.
  - Supervised creation of new processes and tools that automated deployment of Tizen IoT OS on Micro SD cards for IoT devices
