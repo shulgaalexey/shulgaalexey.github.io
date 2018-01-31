@@ -68,7 +68,7 @@ Professional Experience
 
 ### **Samsung Research Center, Seoul, South Korea**
 
-Senior Software Engineer, 3/2014 – Present
+Senior Software Engineer, 3/2017 – Present
 
 
 __Technical Scope:__ C, C++, C#, .NET, Xamarin, Git, Gerrit, GitHub, vim, Doxygen, HTML, UML, gcov, obs, CMake, Tizen Studio IDE, Microsoft Visual Studio IDE, Eclipse IDE, Jira, Tizen SDK, Lean Methodology, Agile Methodology, Automated App Life-cycle, Continuous Integration, Visual Studio Team Services and Mobile Center
