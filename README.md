@@ -1,7 +1,7 @@
 ALEXEY SHULGA
 =============
 7 Graydon Avenue, Newcastle, Co Dublin, Ireland, D22 E7K2
-+353 873320006  shulgaalexey@gmail.com  https://www.linkedin.com/in/alex-shulga/
+shulgaalexey@gmail.com +353 873320006 https://www.linkedin.com/in/alex-shulga/
 Citizen of Ireland
 
 **SOFTWARE ENGINEERING MANAGER**
@@ -18,11 +18,14 @@ Software: Git, Azure DevOps, JIRA, IDEs, SIEMs
 # PROFESSIONAL EXPERIENCE
 
 **MICROSOFT**, Dublin, Ireland	6/2022 to present
+
 Senior Software Engineering Manager – DevEx & AI Productivity, 6/2022 - present
 - Leading a team of 4-9 Software Engineers
 - The team is improving Developer Experience of thousands of software developers at Microsoft by automating tech support experience with innovative Microsoft chat bot technologies
 
+
 **RAPID7**, Dublin, Ireland	8/2018 to 6/2022
+
 Lead Software Engineer – Search Team, 1/2022 - 6/2022
 - Led a team of 5 Software Engineers, that created Log Search services and query language
 Senior Software Engineer – Search Team, 8/2018 - 1/2022
@@ -31,7 +34,9 @@ Senior Software Engineer – Search Team, 8/2018 - 1/2022
 - Maintained and presenting to executives 2+ years development roadmap; working with stakeholders (Architects, InfoSec Experts, PM, UX, Customer Success, Publishers, Engineering) to facilitate cross-team cooperation; hiring, providing mentorship, encouraging the growth of Rapid7 Engineers
 - Overseed, evaluating and contributing to source code development (Java, Python) following CI/CD practice; strongly focused on customer success metric analysis
 
+
 **SAMSUNG ELECTRONICS**, R&D Headquarters Seoul, South Korea	11/2010 to 4/2018
+
 Senior Software Engineer, 11/2010 - 4/2018
 - Provided technical leadership in coordinating design and development activities of Scrum teams of up to 20 Researchers and Engineers in 3 overseas departments and 2 universities to create numerous Tizen OS Connectivity, Context Awareness, Intelligence and IoT APIs and services for mobile app and platform developers
 - Reported project status to Lead of Tizen Advanced Developer Experience Lab
@@ -41,6 +46,7 @@ Senior Software Engineer, 11/2010 - 4/2018
 MEDICOM MTD, Taganrog, Russia	8/2002 to 11/2012
 Junior to Lead Software Engineer, 8/2002 - 11/2010
 - Created software modules for biomedical diagnostic equipment for electroencephalography and electrocardiography
+
 
 
 # EDUCATION & CREDENTIALS
