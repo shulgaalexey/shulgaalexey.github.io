@@ -1,4 +1,4 @@
-ALEXEY SHULGA
+ALEX SHULGA
 =============
 7 Graydon Avenue, Newcastle, Co Dublin, Ireland, D22 E7K2
 shulgaalexey@gmail.com +353 873320006 https://www.linkedin.com/in/alex-shulga/
