@@ -1,6 +1,10 @@
 theme: jekyll-theme-dinky
 title: Alex Shulga
-description: Senior Software Engineering Managere @ Microsoft, Ireland
-owner_resume_url: https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/Alex_Shulga_Resume_15may2025_General?raw=true
-owner_cover_ltr_url: https://github.com/shulgaalexey/shulgaalexey.github.io/blob/master/docs/AlexShulga_Cover_Ltr_20180118.docx?raw=true
+description: Engineering Manager | AI Platforms & Developer Experience | Dublin, Ireland
+url: https://shulgaalexey.github.io
+baseurl: ""
+lang: en
 owner_linkedin_url: https://www.linkedin.com/in/alex-shulga/
+owner_email: shulgaalexey@gmail.com
+markdown: kramdown
+show_downloads: false
