@@ -21,9 +21,9 @@ My work spans **agentic AI at Workday**, developer productivity at **Microsoft**
 
 ## Selected outcomes
 
-- **Developer environments at scale — Microsoft:** helped bring automated Microsoft Dev Box environments to approximately **17,000 engineers**, reducing the friction of provisioning cloud development workspaces.
+- **Developer environments at scale — Microsoft:** helped bring automated [Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box) environments to approximately **17,000 engineers**, reducing the friction of provisioning cloud development workspaces.
 - **Self-service knowledge access — Microsoft:** prioritized reusable onboarding for ES Chat and 1ES Bot, making AI-powered and rules-based support capabilities easier for engineering teams to adopt. Usage and support metrics showed growing knowledge retrieval and ticket deflection.
-- **More capable security searches — Rapid7:** designed LeQL language features, including `from`, IP/CIDR search, and list and string operations. These unlocked additional detection rules and simplified queries that previously relied on regular expressions.
+- **More capable security searches — Rapid7:** designed [LeQL](https://docs.rapid7.com/insightidr/components-for-building-a-query/) language features, including `from`, IP/CIDR search, and list and string operations. These unlocked additional detection rules and simplified queries that previously relied on regular expressions. See Rapid7's [release announcing 12 new keywords and operators](https://docs.rapid7.com/release-notes/insightidr/20210802/).
 
 ## Experience
 
@@ -32,6 +32,8 @@ My work spans **agentic AI at Workday**, developer productivity at **Microsoft**
 Dublin, Ireland · August 2025–present
 
 I lead engineering work on reusable globalization capabilities for Workday's AI agents, helping applications communicate professionally across languages and markets.
+
+*Public product context:* [Workday's platform for building AI agents](https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Launches-New-Tools-for-Developers-to-Build-Connect-and-Verify-AI-Agents-For-HR-Finance-and-IT/default.aspx) and its [multilingual agent strategy](https://newsroom.workday.com/2026-05-28-Workday-and-Google-Cloud-Expand-Strategic-Partnership-to-Bring-AI-Agents-for-HR-and-Finance-Into-Employees-Daily-Workflows). These describe the broader Workday AI ecosystem, rather than specific releases attributed to my team.
 
 - Shaped the team's mission, roadmap, ownership model, and collaboration with AI and platform partners.
 - Lead delivery from architecture and prototypes through implementation, evaluation, rollout, and production support.
@@ -44,7 +46,7 @@ Dublin, Ireland · June 2022–August 2025
 
 Led a team of 6–8 engineers working on platforms and automation for Microsoft's internal engineering organization.
 
-- Delivered Azure provisioning automation for Microsoft Dev Box, including infrastructure and customized images, as cloud development environments reached approximately **17,000 engineers**.
+- Delivered Azure provisioning automation for [Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box), including infrastructure and customized images, as cloud development environments reached approximately **17,000 engineers**.
 - Led ES Chat, an AI-powered knowledge retrieval assistant using RAG, and improved self-service onboarding so teams could connect knowledge with appropriate access controls.
 - Prioritized default onboarding for 1ES Bot, enabling additional teams to benefit from support automation without custom integration work.
 - Owned security lifecycle automation and technical modernization across engineering systems; coached engineers and supported **six promotions**.
@@ -53,10 +55,10 @@ Led a team of 6–8 engineers working on platforms and automation for Microsoft'
 **Senior Software Engineer → Lead Engineer and People Manager — Search / InsightIDR**  
 Dublin, Ireland · August 2018–June 2022
 
-- Led engineering of search APIs, multi-tenant Java/AWS services, and the **LeQL query language** for security and log-management products.
-- Personally designed new language capabilities, including `from`, IP/CIDR, list and string searches, and syntax highlighting; guided their implementation with the team.
+- Led engineering of search APIs, multi-tenant Java/AWS services, and the [**LeQL query language**](https://docs.rapid7.com/insightidr/log-search/) for security and log-management products.
+- Personally designed new language capabilities, including `from`, IP/CIDR, and list and string searches; guided their implementation with the team. Public release notes document the [new `IN` function](https://docs.rapid7.com/release-notes/insightidr/20210225/), [12 additional keywords and operators](https://docs.rapid7.com/release-notes/insightidr/20210802/), and [LeQL syntax highlighting](https://docs.rapid7.com/release-notes/insightidr/20220228/), which I also implemented.
 - Helped security analysts express new detection rules and replace complicated regex-based searches with clearer, more maintainable queries.
-- Built an internal LeQL community to announce releases, answer customer questions, collect feedback, and encourage engineers to engage directly with users.
+- Built an internal LeQL community to announce releases, answer customer questions, collect feedback, and encourage engineers to engage directly with users. I also [helped users in Rapid7's public LeQL community](https://discuss.rapid7.com/t/insightidr-leql-to-regex-help-needed/9868).
 - Aligned product and engineering stakeholders around shared query infrastructure while balancing reliability, performance, and cost.
 
 ### Samsung Electronics
@@ -64,7 +66,7 @@ Dublin, Ireland · August 2018–June 2022
 South Korea · November 2010–April 2018
 
 - Provided technical leadership across international R&D groups building application and platform APIs.
-- Built and maintained the open-source **Tizen Location C API**, integrating HERE location technology.
+- Led development of the [**Tizen native Maps Service API (C/C++)**](https://samsungtizenos.com/release-notes/tizen-2-4/), including geocoding, places, routing, and [HERE Maps integration](https://github.com/Samsung/tizen-docs/blob/master/docs/application/native/guides/location-sensors/here-credentials.md).
 - Developed connectivity, context-awareness, and IoT services for Tizen developers, and collaborated on tooling integrations including Xamarin.
 
 ### Medicom MTD
