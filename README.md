@@ -66,7 +66,7 @@ Dublin, Ireland · August 2018–June 2022
 South Korea · November 2010–April 2018
 
 - Provided technical leadership across international R&D groups building application and platform APIs.
-- Led development of the [**Tizen native Maps Service API (C/C++)**](https://samsungtizenos.com/release-notes/tizen-2-4/), including geocoding, places, routing, and [HERE Maps integration](https://github.com/Samsung/tizen-docs/blob/master/docs/application/native/guides/location-sensors/here-credentials.md).
+- Developed and maintained the [**Tizen native Location C API**](https://github.com/Samsung/tizen-docs/blob/master/docs/application/native/guides/location-sensors/location.md) and related location services. Tizen's public documentation also describes its [HERE Maps integration](https://github.com/Samsung/tizen-docs/blob/master/docs/application/native/guides/location-sensors/here-credentials.md).
 - Developed connectivity, context-awareness, and IoT services for Tizen developers, and collaborated on tooling integrations including Xamarin.
 
 ### Medicom MTD
