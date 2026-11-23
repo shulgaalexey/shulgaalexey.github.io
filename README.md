@@ -33,7 +33,7 @@ Dublin, Ireland · August 2025–present
 
 I lead engineering work on reusable globalization capabilities for Workday's AI agents, helping applications communicate professionally across languages and markets.
 
-*Public product context:* [Workday's platform for building AI agents](https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Launches-New-Tools-for-Developers-to-Build-Connect-and-Verify-AI-Agents-For-HR-Finance-and-IT/default.aspx) and its [multilingual agent strategy](https://newsroom.workday.com/2026-05-28-Workday-and-Google-Cloud-Expand-Strategic-Partnership-to-Bring-AI-Agents-for-HR-and-Finance-Into-Employees-Daily-Workflows). These describe the broader Workday AI ecosystem, rather than specific releases attributed to my team.
+*Public product context:* [Workday's platform for building AI agents](https://investor.workday.com/news-and-events/press-releases/news-details/2026/Workday-Launches-New-Tools-for-Developers-to-Build-Connect-and-Verify-AI-Agents-For-HR-Finance-and-IT/default.aspx). This describes the broader Workday AI ecosystem, rather than specific releases attributed to my team.
 
 - Shaped the team's mission, roadmap, ownership model, and collaboration with AI and platform partners.
 - Lead delivery from architecture and prototypes through implementation, evaluation, rollout, and production support.
