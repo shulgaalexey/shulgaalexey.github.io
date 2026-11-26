@@ -16,7 +16,15 @@ permalink: /strategic-brief-agent/
 
 A strategy is not static. Leaders need to notice emerging uncertainties, challenge assumptions and create opportunities for debate before allocating scarce engineering and product resources.
 
-During [Harvard Business School Online's Strategy Execution course](https://online.hbs.edu/courses/strategy-execution/), I identified an opportunity to strengthen interactive control systems: the ongoing dialogue through which leaders explore changing conditions and reconsider strategic priorities. During [MIT Sloan's Implementing Agentic AI programme](https://executive.mit.edu/course/implementing-agentic-ai/a05U100000CvoPOIAZ.html), I developed that idea into an agentic AI adoption playbook.
+## From management capstone to agentic AI playbook
+
+The starting point was a formal management exercise, not a technology demonstration. In my October 2026 capstone for [Harvard Business School Online's Strategy Execution course](https://online.hbs.edu/courses/strategy-execution/), I applied the four perspectives on strategy and the levers of control to an engineering organization. I identified its Interactive Control System as an area for improvement and proposed a lightweight, leadership-driven mechanism for exploring strategic uncertainties.
+
+The original proposal brought together three categories of signals: customer experience and competitive pressure, employee engagement and innovation, and delivery progress and quality. A regular leadership dialogue would ask what had changed, why it had happened, and what the organization should do about it. Each review would produce or update strategic hypotheses, decisions and accountable owners. The intention was to build on existing management tools rather than introduce another performance scoreboard.
+
+During [MIT Sloan's Implementing Agentic AI programme](https://executive.mit.edu/course/implementing-agentic-ai/a05U100000CvoPOIAZ.html), I developed this management proposal further into the Strategic Brief Agent adoption playbook. The agent would proactively gather and investigate evidence, surface emerging uncertainties and prepare recommendations for that same interactive leadership dialogue. It would augment the control system, not replace human strategic judgment.
+
+The progression was deliberate: diagnose the management problem, design the organizational process, then explore how agentic AI could strengthen it.
 
 This is a generalized account of my course design work, not an operational system or a disclosure of company-specific data.
 
