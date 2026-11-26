@@ -29,17 +29,32 @@ My work spans **agentic AI at Workday**, developer productivity at **Microsoft**
 
 ## Featured engineering case studies
 
-### Lovely Collective — agentic software engineering
-
-**Build to learn. Adopt to scale. Govern by design.** I personally built two working multi-agent orchestration prototypes to understand the architectural, governance and economic trade-offs of agentic software development in regulated enterprise environments.
-
-[Read the Lovely Collective case study](./lovely-collective/)
-
-### Strategic Brief Agent — agentic AI for strategy execution
-
-A formal management capstone on strengthening interactive control systems at HBS Online, developed further into a governed Strategic Brief Agent adoption playbook at MIT Sloan. The design connects strategic sensing, leadership dialogue and human decision-making. This is a proposed workflow, not a deployed system.
-
-[Read the Strategic Brief Agent case study](./strategic-brief-agent/)
+<div class="case-grid">
+  <article class="case-card">
+    <a class="case-preview" href="./lovely-collective/" aria-label="Explore the Lovely Collective case study">
+      <img src="./pics/lovely-collective-preview.svg" alt="Human oversight, autonomous Chef Agent and deterministic Kanban orchestration, shared agent runtime, and lovely-lock lifecycle controls" width="640" height="420" loading="lazy">
+    </a>
+    <div class="case-card-body">
+      <p class="case-kicker">Hands-on engineering R&amp;D</p>
+      <h3><a href="./lovely-collective/">Lovely Collective</a></h3>
+      <p><strong>Build to learn. Adopt to scale. Govern by design.</strong> Two working multi-agent prototypes exploring autonomous and deterministic software development in regulated enterprise environments.</p>
+      <p class="case-tags">Architecture · Governance · Engineering economics</p>
+      <a class="case-cta" href="./lovely-collective/">Explore case study →</a>
+    </div>
+  </article>
+  <article class="case-card">
+    <a class="case-preview" href="./strategic-brief-agent/" aria-label="Explore the Strategic Brief Agent case study">
+      <img src="./pics/strategic-brief-agent-preview.svg" alt="Approved signals feed bounded investigation and evidence-backed briefs for human strategic decisions" width="640" height="420" loading="lazy">
+    </a>
+    <div class="case-card-body">
+      <p class="case-kicker">HBS capstone → MIT Sloan playbook</p>
+      <h3><a href="./strategic-brief-agent/">Strategic Brief Agent</a></h3>
+      <p>A proposed agentic workflow connecting interactive control systems, strategic sensing and leadership dialogue, while preserving human decision authority.</p>
+      <p class="case-tags">Strategy · Agentic AI · Organisational design</p>
+      <a class="case-cta" href="./strategic-brief-agent/">Explore case study →</a>
+    </div>
+  </article>
+</div>
 
 ## Experience
 
