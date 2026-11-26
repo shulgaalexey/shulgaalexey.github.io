@@ -4,6 +4,8 @@ permalink: /
 title: Alex Shulga | Engineering Leadership, AI & Platforms
 ---
 
+<a id="page-top"></a>
+
 # Building useful AI products and platforms through strong engineering teams
 
 I'm Alex, a Dublin-based **Engineering Manager** with more than 20 years of experience building software and developing engineers. I lead teams through ambiguous technical challenges, connect engineering priorities to customer outcomes, and turn promising ideas into platforms people actually use.
@@ -24,6 +26,20 @@ My work spans **agentic AI at Workday**, developer productivity at **Microsoft**
 - **Developer environments at scale — Microsoft:** helped bring automated [Microsoft Dev Box](https://learn.microsoft.com/en-us/azure/dev-box/overview-what-is-microsoft-dev-box) environments to approximately **17,000 engineers**, reducing the friction of provisioning cloud development workspaces.
 - **Self-service knowledge access — Microsoft:** prioritized reusable onboarding for ES Chat and 1ES Bot, making AI-powered and rules-based support capabilities easier for engineering teams to adopt. Usage and support metrics showed growing knowledge retrieval and ticket deflection.
 - **More capable security searches — Rapid7:** designed [LeQL](https://docs.rapid7.com/insightidr/components-for-building-a-query/) language features, including `from`, IP/CIDR search, and list and string operations. These unlocked additional detection rules and simplified queries that previously relied on regular expressions. See Rapid7's [release announcing 12 new keywords and operators](https://docs.rapid7.com/release-notes/insightidr/20210802/).
+
+## Featured engineering case studies
+
+### Lovely Collective — agentic software engineering
+
+**Build to learn. Adopt to scale. Govern by design.** I personally built two working multi-agent orchestration prototypes to understand the architectural, governance and economic trade-offs of agentic software development in regulated enterprise environments.
+
+[Read the Lovely Collective case study]({{ '/lovely-collective/' | relative_url }})
+
+### Strategic Brief Agent — agentic AI for strategy execution
+
+A formal management capstone on strengthening interactive control systems at HBS Online, developed further into a governed Strategic Brief Agent adoption playbook at MIT Sloan. The design connects strategic sensing, leadership dialogue and human decision-making. This is a proposed workflow, not a deployed system.
+
+[Read the Strategic Brief Agent case study]({{ '/strategic-brief-agent/' | relative_url }})
 
 ## Experience
 
@@ -103,4 +119,7 @@ I enjoy bonsai, playing ukulele, strength training, and reading about decision-m
 
 I'm interested in conversations about **engineering leadership, AI applications, and SaaS platforms**. Reach me on [LinkedIn](https://www.linkedin.com/in/alex-shulga/) or by [email](mailto:shulgaalexey@gmail.com).
 
-*Dublin, Ireland · Irish citizen · Updated 21 November 2026*
+*Dublin, Ireland · Irish citizen · Updated 26 November 2026*
+
+
+<a href="#page-top" role="button" style="display:inline-block;padding:10px 18px;border:1px solid currentColor;border-radius:6px;font-weight:600;text-decoration:none;">Back to top ↑</a>
