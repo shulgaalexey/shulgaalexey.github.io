@@ -33,13 +33,13 @@ My work spans **agentic AI at Workday**, developer productivity at **Microsoft**
 
 **Build to learn. Adopt to scale. Govern by design.** I personally built two working multi-agent orchestration prototypes to understand the architectural, governance and economic trade-offs of agentic software development in regulated enterprise environments.
 
-[Read the Lovely Collective case study]({{ '/lovely-collective/' | relative_url }})
+[Read the Lovely Collective case study](./lovely-collective/)
 
 ### Strategic Brief Agent — agentic AI for strategy execution
 
 A formal management capstone on strengthening interactive control systems at HBS Online, developed further into a governed Strategic Brief Agent adoption playbook at MIT Sloan. The design connects strategic sensing, leadership dialogue and human decision-making. This is a proposed workflow, not a deployed system.
 
-[Read the Strategic Brief Agent case study]({{ '/strategic-brief-agent/' | relative_url }})
+[Read the Strategic Brief Agent case study](./strategic-brief-agent/)
 
 ## Experience
 
