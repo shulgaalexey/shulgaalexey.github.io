@@ -37,7 +37,7 @@ My work spans **agentic AI at Workday**, developer productivity at **Microsoft**
 
 ### Strategic Brief Agent — agentic AI for strategy execution
 
-A design playbook connecting interactive control systems with AI-assisted strategic sensing and human decision-making, developed through HBS Online and MIT Sloan studies. This is a proposed workflow, not a deployed system.
+A formal management capstone on strengthening interactive control systems at HBS Online, developed further into a governed Strategic Brief Agent adoption playbook at MIT Sloan. The design connects strategic sensing, leadership dialogue and human decision-making. This is a proposed workflow, not a deployed system.
 
 [Read the Strategic Brief Agent case study]({{ '/strategic-brief-agent/' | relative_url }})
 
