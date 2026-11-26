@@ -38,6 +38,22 @@
     li { margin:0 0 10px; }
     strong { font-weight:650; }
     footer { max-width:1120px; margin:auto; padding:0 36px 36px; color:var(--muted); font-size:13px; }
+    .case-grid { display:grid; gap:18px; margin:24px 0 8px; }
+    .case-card { display:grid; grid-template-columns:minmax(0, 42%) minmax(0, 1fr); align-items:center; gap:20px; border:1px solid var(--line); border-radius:12px; background:#fbfcfd; padding:16px; }
+    .case-preview { display:block; border-radius:7px; overflow:hidden; border:1px solid var(--line); background:#f4f8fa; }
+    .case-preview img { display:block; width:100%; height:auto; }
+    .case-preview:hover { border-color:var(--accent); }
+    .case-card-body { min-width:0; }
+    .case-card .case-kicker { color:var(--accent); font-size:12px; line-height:1.4; font-weight:650; letter-spacing:.02em; margin:0 0 7px; }
+    .case-card h3 { margin:0 0 9px; font-size:21px; }
+    .case-card h3 a { color:var(--ink); text-decoration:none; }
+    .case-card h3 a:hover { color:var(--accent); text-decoration:underline; }
+    .case-card p { margin:0 0 10px; font-size:15px; line-height:1.55; }
+    .case-card .case-tags { font-size:12px; color:var(--muted); }
+    .case-cta { font-size:14px; font-weight:650; }
+    main img { max-width:100%; height:auto; }
+    @media (max-width:560px) { .case-card { grid-template-columns:1fr; gap:15px; padding:14px; } .case-preview { max-width:400px; } }
+    @media print { .case-card { break-inside:avoid; } }
     @media (max-width:800px) {
       .shell { grid-template-columns:1fr; gap:28px; padding:28px 20px; }
       header { position:static; }
@@ -67,6 +83,7 @@
       <p class="tagline">{{ site.description | escape }}</p>
       <nav aria-label="Main navigation">
         <a href="{{ '/' | relative_url }}#what-i-bring">Focus</a>
+        <a href="{{ '/' | relative_url }}#featured-engineering-case-studies">Case studies</a>
         <a href="{{ '/' | relative_url }}#experience">Experience</a>
         <a href="{{ '/' | relative_url }}#how-i-lead">How I lead</a>
         <a href="{{ '/' | relative_url }}#education-and-continued-learning">Learning</a>
