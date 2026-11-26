@@ -122,4 +122,4 @@ I'm interested in conversations about **engineering leadership, AI applications,
 *Dublin, Ireland · Irish citizen · Updated 26 November 2026*
 
 
-<a href="#page-top" role="button" style="display:inline-block;padding:10px 18px;border:1px solid currentColor;border-radius:6px;font-weight:600;text-decoration:none;">Back to top ↑</a>
+<a href="https://shulgaalexey.github.io/" role="button" style="display:inline-block;padding:10px 18px;border:1px solid currentColor;border-radius:6px;font-weight:600;text-decoration:none;">Back to top ↑</a>
