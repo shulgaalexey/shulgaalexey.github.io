@@ -75,7 +75,8 @@ The following public projects are useful context for the broader agentic tooling
 - [Paperclip](https://github.com/paperclipai/paperclip) — agent work orchestration.
 - [Hermes Agent](https://github.com/NousResearch/hermes-agent) — agent runtime and tools.
 - [OpenClaw](https://github.com/openclaw/openclaw) — personal agent tooling.
-- [AI Kanban projects](https://github.com/topics/ai-kanban) — related Kanban-based coding-agent tooling.
+- [Agent Orchestrator (AI Kanban)](https://github.com/OrchestratorInc/agent-orchestrator) — a reference for Kanban-based agent orchestration.
+- [Vibe Kanban](https://github.com/BloopAI/vibe-kanban) — additional reference for managing AI coding workflows.
 - [MIT Sloan Executive Education: Implementing Agentic AI](https://executive.mit.edu/course/implementing-agentic-ai/a05U100000CvoPOIAZ.html).
 
 [Back to home]({{ '/' | relative_url }})
