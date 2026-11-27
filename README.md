@@ -29,7 +29,21 @@ My work spans **agentic AI at Workday**, developer productivity at **Microsoft**
 
 ## Featured engineering case studies
 
+Three complementary perspectives on the AI-enabled engineering organization: management in daily practice, engineering execution research and strategic decision-support design. These are distinct initiatives with different levels of maturity.
+
 <div class="case-grid">
+  <article class="case-card">
+    <a class="case-preview" href="./lovely-notes/" aria-label="Explore the Lovely Notes case study">
+      <img src="./pics/lovely-notes-preview.svg" alt="Markdown-first knowledge, reusable AI skills, approved MCP and human-led planning" width="640" height="420" loading="lazy">
+    </a>
+    <div class="case-card-body">
+      <p class="case-kicker">Sustained practical AI adoption</p>
+      <h3><a href="./lovely-notes/">Lovely Notes</a></h3>
+      <p>A personally developed AI-enabled engineering management workspace for goal-aligned planning, source-backed research and lightweight knowledge management, with a reusable onboarding package.</p>
+      <p class="case-tags">Management · Context engineering · AI adoption</p>
+      <a class="case-cta" href="./lovely-notes/">Explore case study →</a>
+    </div>
+  </article>
   <article class="case-card">
     <a class="case-preview" href="./lovely-collective/" aria-label="Explore the Lovely Collective case study">
       <img src="./pics/lovely-collective-preview.svg" alt="Human oversight, autonomous Chef Agent and deterministic Kanban orchestration, shared agent runtime, and lovely-lock lifecycle controls" width="640" height="420" loading="lazy">
